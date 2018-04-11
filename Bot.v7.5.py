@@ -33,7 +33,7 @@ kc.login(token="EqExgjPtC7TmzRO6Igb0.9T/PGPFdadrWbCl3Gzx/Ga.bewTJcW222ZleLUZXFT9
 kc.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(token="Er6AEpCCbGxmnUnW9mMf.8xqyonc7QGpg4SKhcRUsVW.FAmnTe+BqM23m7rO+vFCFUNgc0oeBGYn7ZxaOEyeazw=")
+kl.login(token="ErguTptOSzKqvUQOdYq9.hBhkoFGOWq2ca/v2aGDfkq./Kcmg61w1oLsZpfTTT9Mj9y1Xlyde4QroCD2eIqjj8U=")
 kl.loginResult()
 
 print "=============SHINGAMI-TEAM============="
@@ -205,9 +205,9 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
-admin = ["u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
-owner = ["u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
-creator=["ud7a8fbcc2af037c2c5bf181b89fda5f7"]
+admin = ["u3679b0953739d2cac434f4e14d309d58","uabb247aa6936ab56a9a65fa473513454"]
+owner = ["u61a9b5ce8de3eb51a859410c9834e5c8","u8a65cc7294a9d7732013411a12753643"]
+creator=["u61a9b5ce8de3eb51a859410c9834e5c8"]
 wait = {
     'contact':False,
     'autoJoin':True,
